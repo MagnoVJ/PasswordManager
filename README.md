@@ -47,3 +47,6 @@ Se quiser contribuir, entre em contato pelo email:
 ## Licença
 
 Este projeto é livre para uso não comercial.
+
+## Tecnologias Usadas
+WPF - C# - Entity Framework - MySQL
