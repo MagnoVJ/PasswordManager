@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PassManager": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\projects\\Password Manager\\PassManager"
+    }
+  }
+}
