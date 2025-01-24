@@ -31,13 +31,13 @@ O banco/esquema deve conter apenas 2 tabelas: account e password_item. O script 
 ## Imagens do Projeto
 
 ### Tela Inicial
-![Tela Inicial](https://github.com/MagnoVJ/PasswordManager/Screenshots/Screenshot1.jpg)
+![Tela Inicial](https://github.com/MagnoVJ/PasswordManager/blob/main/Screenshots/Screenshot1.jpg)
 
 ### Tela de Cadastro
-![Tela de Cadastro](https://github.com/MagnoVJ/PasswordManager/Screenshots/Screenshot2.jpg)
+![Tela de Cadastro](https://github.com/MagnoVJ/PasswordManager/blob/main/Screenshots/Screenshot2.jpg)
 
 ### Localizar Item
-![Localizar](https://github.com/MagnoVJ/PasswordManager/Screenshots/Screenshot2.jpg)
+![Localizar](https://github.com/MagnoVJ/PasswordManager/blob/main/Screenshots/Screenshot3.jpg)
 
 ## Contribuições
 
