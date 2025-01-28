@@ -1,0 +1,20 @@
+﻿PassManager
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\projects\Password Manager\PassManager\obj\Release\net8.0-windows\
+PassManager
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\projects\Password Manager\PassManager\App.xaml
+5678646134
+
+14874700213
+2241757789960
+CreatePassItem.xaml;custom\PasswordItem.xaml;LocalizarWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+
+True
+
